@@ -14,13 +14,13 @@ This project focuses on analyzing a Netflix dataset using SQL to uncover valuabl
 
  # Tools & Technologies
 
-* SQL (MySQL / PostgreSQL)
+* SQL (MySQL Benchwork / PostgreSQL)
 * GitHub
 * Dataset (CSV format)
 
 # Dataset Information
 
-The dataset contains information about Netflix content such as:
+The dataset contains information about Netflix content, such as:
 
 * Title
 * Director
