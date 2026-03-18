@@ -1,10 +1,10 @@
  🎬 Netflix SQL Data Analysis
 
-📌 Project Overview
+ # Project Overview
 
 This project focuses on analyzing a Netflix dataset using SQL to uncover valuable insights about movies and TV shows. The goal is to understand content trends, distribution, and patterns that can help in business decision-making.
 
- 🎯 Objectives
+# Objectives
 
 * Analyze the distribution of Movies vs TV Shows
 * Identify content trends over the years
@@ -12,13 +12,13 @@ This project focuses on analyzing a Netflix dataset using SQL to uncover valuabl
 * Explore ratings and genres
 * Perform data cleaning and transformation
 
-🛠️ Tools & Technologies
+ # Tools & Technologies
 
 * SQL (MySQL / PostgreSQL)
 * GitHub
 * Dataset (CSV format)
 
- 📂 Dataset Information
+# Dataset Information
 
 The dataset contains information about Netflix content such as:
 
@@ -31,14 +31,14 @@ The dataset contains information about Netflix content such as:
 * Duration
 * Genre (listed_in)
 
-🧹 Data Cleaning Steps
+# Data Cleaning Steps
 
 * Handled missing values (e.g., director, country)
 * Converted date formats
 * Removed duplicates (if any)
 * Standardized text fields
 
-🔍 Key SQL Analysis Performed
+# Key SQL Analysis Performed
 
 ### 1. Movies vs TV Shows Count
 Analyzed the number of Movies and TV Shows available on Netflix.
@@ -56,7 +56,7 @@ Analyzed audience ratings distribution.
 Identified the most popular genres on Netflix.
 
 
-## 📊 Key Insights
+## Key Insights
 
 * Netflix has more **Movies** than TV Shows
 * Significant content growth observed after 2015
@@ -64,7 +64,7 @@ Identified the most popular genres on Netflix.
 * Drama and International genres are highly popular
 
 
-## 📁 Project Structure
+## Project Structure
 
 Netflix-SQL--Analysis/
 │── netflix_analysis.sql
@@ -72,7 +72,7 @@ Netflix-SQL--Analysis/
 │── README.md
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the dataset
 2. Import it into your SQL environment
