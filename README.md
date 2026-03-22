@@ -80,7 +80,7 @@ Netflix-SQL--Analysis/
 4. Explore insights and modify queries
 
 
-## 🙋‍♀️ Author
+##  Author
 
 **Yogeshwari Joshi**
 Aspiring Data Analyst / Business Analyst
